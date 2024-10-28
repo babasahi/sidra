@@ -4,7 +4,7 @@ import 'package:sidra/models/sidr.dart';
 final List<Sidr> mockSidrs = [
   Sidr(
     id: 'SDR001',
-    geoPoint: GeoPoint(latitude: 18.2543, longitude: 42.8614),
+    geoPoint: GeoPoint(latitude: 16.650972, longitude: -9.588095),
     description:
         'Ancient Sidr tree cluster with estimated age of 200 years, showing remarkable drought resistance',
     discoveredBy: 'Ahmed Al-Zahrani',
