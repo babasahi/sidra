@@ -1,6 +1,8 @@
 # Sidra
-Demo built with Flutter web for:
+
 Sidra is an interactive crowdsourced map for "Sidr" trees in Mauritania.
+[https://sidra-61794.web.app](link)
+Note: The current version is just a demo built with Flutter web.
 
 ## Milestones
 - [x] Interactive map showing list of Sidrs in the region. 
