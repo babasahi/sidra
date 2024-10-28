@@ -12,7 +12,7 @@ final List<Sidr> mockSidrs = [
   ),
   Sidr(
     id: 'SDR002',
-    geoPoint: GeoPoint(latitude: 19.1234, longitude: 41.9876),
+    geoPoint: GeoPoint(latitude: 16.6346782, longitude: -9.6214738),
     description:
         'Isolated Sidr tree growing at high altitude, unique adaptation to mountain conditions',
     discoveredBy: 'Sarah Johnson',
@@ -20,7 +20,7 @@ final List<Sidr> mockSidrs = [
   ),
   Sidr(
     id: 'SDR003',
-    geoPoint: GeoPoint(latitude: 17.8765, longitude: 43.2109),
+    geoPoint: GeoPoint(latitude: 16.6351782, longitude: -9.6214658),
     description:
         'Sidr grove near ancient water source, historically significant for local communities',
     discoveredBy: 'Mohammed Al-Qahtani',
@@ -28,7 +28,7 @@ final List<Sidr> mockSidrs = [
   ),
   Sidr(
     id: 'SDR004',
-    geoPoint: GeoPoint(latitude: 20.4567, longitude: 41.7890),
+    geoPoint: GeoPoint(latitude: 16.6346770, longitude: -9.6214732),
     description:
         'Rare variant of Sidr with unusually large fruit yield, potential for agricultural study',
     discoveredBy: 'Dr. Emily Chen',
